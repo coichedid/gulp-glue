@@ -1,5 +1,5 @@
 {
-  "name": "gulp-glue",
+  "name": "gulp-aws-glue",
   "version": "0.0.1",
   "description": "AWS Glue plugin for Gulp. It helps to create and update glue jobs",
   "main": "index.js",
