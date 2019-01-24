@@ -1,11 +1,11 @@
 {
   "name": "gulp-aws-glue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS Glue plugin for Gulp. It helps to create and update glue jobs",
   "main": "index.js",
   "author": "Clovis Chedid",
   "repository": "github:coichedid/gulp-glue",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "aws-sdk": "^2.391.0"
   }
